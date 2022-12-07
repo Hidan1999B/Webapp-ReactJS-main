@@ -70,7 +70,7 @@ export const ReviewImgs = [
     {
         id: 11,
         img: "https://luxplus-photos.imgix.net/files/uploads/influencers/marlene-hviid-2022-01-25-142736.jpg?auto=format,compress&w=496",
-        title: "Juliette Sørensen",
+        title: "Mette Frederiksen",
         text: "#Thisiseverything Lip Oil fra NYX er uden tvivl et af mine favoritprodukter, når det gælder bløde, sunde og glansfulde læber 💋"
     },
     
