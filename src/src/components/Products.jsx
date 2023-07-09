@@ -1,5 +1,5 @@
 
-/*
+
 import React from 'react'
 import styled from 'styled-components'
 import { mostSold } from '../data'
@@ -28,4 +28,3 @@ function Products() {
 }
 export default Products
 
-*/

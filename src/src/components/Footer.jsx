@@ -57,6 +57,7 @@ color: white;
 border-radius: 50%;
 display: flex;
 margin-right: 20px;
+margin: 10px 5px;
 
 `
 const Desc = styled.p`
@@ -112,7 +113,7 @@ function Footer() {
             <ContactInfo><Map style ={{marginRight:"10px"}}/> Højegladsaxe 18. 3 sal tv.</ContactInfo>
             <ContactInfo><PhoneAndroid style ={{marginRight:"10px"}}/> +45 29 56 10 19</ContactInfo>
             <ContactInfo><MailOutlineSharp style ={{marginRight:"10px"}}/> LIYA@business.com</ContactInfo>
-            <ContactInfo>CVR nr.: 25090705</ContactInfo>
+            <ContactInfo>CVR Number: 25090705</ContactInfo>
 
         </Right>
 
